@@ -1,0 +1,69 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"New motor vehicle registrations",20100021,,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010002101",,"CURRENT - a cube available to the public and that is current",Annual,2011-01-01,2018-01-01,4
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Correction Notes","Dimension Definitions"
+1,Geography,,,
+2,"Fuel Type",,,
+3,"Vehicle type",,,
+4,Statistics,,,
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Correction Notes","Member Geo Attribute Keys","Member Definitions"
+1,Canada,[11124],1,,,,,,
+1,"Newfoundland and Labrador",[10],2,1,,4,,,
+1,"Prince Edward Island",[11],3,1,,,,,
+1,"Nova Scotia",[12],4,1,,4,,,
+1,"New Brunswick",[13],5,1,,,,,
+1,Quebec,[24],6,1,,,,,
+1,Ontario,[35],7,1,,,,,
+1,Manitoba,[46],8,1,,,,,
+1,Saskatchewan,[47],9,1,,,,,
+1,Alberta,[48],10,1,,4,,,
+1,"British Columbia and the Territories",[59],11,1,,,,,
+2,"All fuel types",,1,,,,,,
+2,Gasoline,,2,1,,,,,
+2,Diesel,,3,1,,,,,
+2,"Battery electric",,4,1,,,,,
+2,"Hybrid electric",,5,1,,,,,
+2,"Plug-in hybrid electric",,6,1,,,,,
+2,"Other fuel types",,7,1,,1,,,
+3,"Total, vehicle type",,1,,,2,,,
+3,"Passenger cars",,2,1,,,,,
+3,"Pick up trucks",,3,1,,5,,,
+3,"Multi-purpose vehicles",,4,1,,3,,,
+3,Vans,,5,1,,6,,,
+4,"Number of vehicles",,1,,,,,,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period",..
+"less than the limit of detection",<LOD
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded",0s
+"data quality: excellent",A
+"data quality: very good",B
+"data quality: good",C
+"data quality: acceptable",D
+"use with caution",E
+"too unreliable to be published",F
+"not applicable",...
+preliminary,p
+revised,r
+"suppressed to meet the confidentiality requirements of the Statistics Act",x
+terminated,t
+
+"Survey Code","Survey Name"
+5307,"New Motor Vehicle Registration Survey"
+
+"Subject Code","Subject Name"
+20,"Retail and wholesale"
+
+"Note ID",Note
+1,"Other fuel types include liquid propane, natural gas, hydrogen, etcetera."
+2,"Total vehicle type excludes buses, trailers, recreational vehicles, motorcycles, snowmobiles, golf carts, etcetera."
+3,"Multi-purpose vehicles include sports utility vehicles (SUVs) and Crossovers."
+4,"Data for Newfoundland and Labrador, Nova Scotia and Alberta are currently not available due to contractual limitations of the existing data sharing agreement"
+5,"Pick up trucks correspond to gross vehicle weight rate (GVWR) ranging from 0-14000lb (for example, classes 1, 2, and 3)."
+6,"Vans include all minivans and cargo vans."
+
+"Correction ID","Correction Date","Correction Note"
+
+
