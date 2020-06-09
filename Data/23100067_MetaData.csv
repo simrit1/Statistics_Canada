@@ -1,0 +1,72 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions",Universe,"Variable List"
+"Vehicle registrations, by type of vehicle",23100067,405-0004,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2310006701",2;3;5;6,"CURRENT - a cube available to the public and that is current",Annual,1999-01-01,2018-01-01,2,,
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Correction Notes","Dimension Definitions"
+1,Geography,,,
+2,"Type of vehicle",,,
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Correction Notes","Member Geo Attribute Keys","Member Definitions"
+1,Canada,[11124],1,,,,,,
+1,"Newfoundland and Labrador",[10],2,1,,,,,
+1,"Prince Edward Island",[11],3,1,,4;8;9,,,
+1,"Nova Scotia",[12],4,1,,,,,
+1,"New Brunswick",[13],5,1,,,,,
+1,Quebec,[24],6,1,,,,,
+1,Ontario,[35],7,1,,,,,
+1,Manitoba,[46],8,1,,,,,
+1,Saskatchewan,[47],9,1,,,,,
+1,Alberta,[48],10,1,,,,,
+1,"British Columbia",[59],11,1,,,,,
+1,Yukon,[60],12,1,,,,,
+1,"Northwest Territories",[61],13,1,,,,,
+1,Nunavut,[62],14,1,,7,,,
+2,"Total, vehicle registrations",,1,,,,,,
+2,"Total, road motor vehicle registrations",,2,1,,,,,
+2,"Vehicles weighing less than 4,500 kilograms",,3,2,,,,,
+2,"Vehicles weighing 4,500 kilograms to 14,999 kilograms",,4,2,,,,,
+2,"Vehicles weighing 15,000 kilograms or more",,5,2,,,,,
+2,Buses,,6,2,,,,,
+2,"Motorcycles and mopeds",,7,2,,,,,
+2,Trailers,,8,1,,,,,
+2,"Off-road, construction, farm vehicles",,9,1,,,,,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period",..
+"less than the limit of detection",<LOD
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded",0s
+"data quality: excellent",A
+"data quality: very good",B
+"data quality: good",C
+"data quality: acceptable",D
+"use with caution",E
+"too unreliable to be published.",F
+"not applicable",...
+preliminary,p
+revised,r
+"suppressed to meet the confidentiality requirements of the Statistics Act",x
+terminated,t
+
+"Survey Code","Survey Name"
+2747,"Vehicle Registrations"
+
+"Subject Code","Subject Name"
+23,Transportation
+
+"Note ID",Note
+2,"For 2001, the number of trailers for Ontario was calculated using the file provided by Ontario in January, 2002"
+3,"A break in the series occurs with the release of the 2010 data due to an improvement in the method used to assign vehicle type. At the national level, the main impact of this change was a net increase in the number of vehicles weighing 15 tonnes and more and a net decrease in the number of vehicles weighing from 4.5 tonnes to less than 15 tonnes. The impacts vary considerably by province and territory."
+4,"Due to the implantation of a new process from 2013 to 2016 in Prince Edward Island, school buses were included in the total number of buses, whereas they were not included in previous years."
+5,"For 1999 and 2000, the number of trailers in Ontario was provided by the Ontario Ministry of Transportation in the annual publication entitled ""Ontario Vehicle Population Statistics""."
+6,"Due to a change in British Columbia's regulations in 2015, more off-road vehicles are now registered."
+7,"The 2016 estimates for Nunavut were used for the two following years, since the vehicle registration files for these subsequent years were not received at the time of the data release.
+
+."
+8,"In 2017, in Prince Edward Island, school buses were shifted from annual renewable registration to a non-expiring registration. This accounts for the decline in the school bus registrations. For more information, please contact the PEI Department of Transportation, Infrastructure and Energy. 
+
+"
+9,"A processing error was discovered and subsequently corrected by Prince Edward Island in 2018. As a result, the level of all categories of vehicles have shifted upward in 2018 compared to previous years. For more information, please contact the PEI Department of Transportation, Infrastructure and Energy. "
+
+"Dimension ID","Member ID","Attribute Key",Title,Label,"Long Label",Value
+
+
