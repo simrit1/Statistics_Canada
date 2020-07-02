@@ -1,0 +1,2689 @@
+Region,Source,Year,Data,Unit
+Canada,Hydro,2005,72889.831,MW
+Canada,Wind,2005,557.37,MW
+Canada,Biomass,2005,1804.0882,MW
+Canada,Solar,2005,16.75,MW
+Canada,Nuclear,2005,12805,MW
+Canada,Coal,2005,16002.64,MW
+Canada,Natural Gas,2005,13190.61,MW
+Canada,Oil and Diesel,2005,4794.76,MW
+Canada,Hydro,2006,72779.831,MW
+Canada,Wind,2006,1443.04,MW
+Canada,Biomass,2006,1810.6882,MW
+Canada,Solar,2006,20.48,MW
+Canada,Nuclear,2006,13345,MW
+Canada,Coal,2006,15918.64,MW
+Canada,Natural Gas,2006,13500.29,MW
+Canada,Oil and Diesel,2006,4704.79,MW
+Canada,Hydro,2007,73580.831,MW
+Canada,Wind,2007,1823.24,MW
+Canada,Biomass,2007,1810.6882,MW
+Canada,Solar,2007,25.77,MW
+Canada,Nuclear,2007,13345,MW
+Canada,Coal,2007,16005.64,MW
+Canada,Natural Gas,2007,13590.66,MW
+Canada,Oil and Diesel,2007,4830.79,MW
+Canada,Hydro,2008,74483.831,MW
+Canada,Wind,2008,2321.14,MW
+Canada,Biomass,2008,1734.6882,MW
+Canada,Solar,2008,32.72,MW
+Canada,Nuclear,2008,13345,MW
+Canada,Coal,2008,15743.64,MW
+Canada,Natural Gas,2008,15428.16,MW
+Canada,Oil and Diesel,2008,4802.74,MW
+Canada,Hydro,2009,74765.831,MW
+Canada,Wind,2009,3240.14,MW
+Canada,Biomass,2009,1803.7882,MW
+Canada,Solar,2009,94.57,MW
+Canada,Nuclear,2009,13345,MW
+Canada,Coal,2009,15800.64,MW
+Canada,Natural Gas,2009,15556.39,MW
+Canada,Oil and Diesel,2009,4706.08,MW
+Canada,Hydro,2010,75160.831,MW
+Canada,Wind,2010,3746.14,MW
+Canada,Biomass,2010,1868.7882,MW
+Canada,Solar,2010,281.13,MW
+Canada,Nuclear,2010,13345,MW
+Canada,Coal,2010,13923.64,MW
+Canada,Natural Gas,2010,18814.81,MW
+Canada,Oil and Diesel,2010,4760.07,MW
+Canada,Hydro,2011,75476.681,MW
+Canada,Wind,2011,5171.34,MW
+Canada,Biomass,2011,1898.2852,MW
+Canada,Solar,2011,419.4,MW
+Canada,Nuclear,2011,13345,MW
+Canada,Coal,2011,13608.64,MW
+Canada,Natural Gas,2011,18960.945,MW
+Canada,Oil and Diesel,2011,4265.07,MW
+Canada,Hydro,2012,76531.981,MW
+Canada,Wind,2012,6037.64,MW
+Canada,Biomass,2012,1953.3852,MW
+Canada,Solar,2012,647.481,MW
+Canada,Nuclear,2012,13345,MW
+Canada,Coal,2012,12563.64,MW
+Canada,Natural Gas,2012,19785.945,MW
+Canada,Oil and Diesel,2012,4265.07,MW
+Canada,Hydro,2013,76003.281,MW
+Canada,Wind,2013,7683.61,MW
+Canada,Biomass,2013,1982.2342,MW
+Canada,Solar,2013,1027.628,MW
+Canada,Nuclear,2013,14345,MW
+Canada,Coal,2013,12024.64,MW
+Canada,Natural Gas,2013,19935.085,MW
+Canada,Oil and Diesel,2013,4269.07,MW
+Canada,Hydro,2014,78576.701,MW
+Canada,Wind,2014,9621.59,MW
+Canada,Biomass,2014,2437.3282,MW
+Canada,Solar,2014,1523.478,MW
+Canada,Nuclear,2014,14273,MW
+Canada,Coal,2014,9785.64,MW
+Canada,Natural Gas,2014,20107.01,MW
+Canada,Oil and Diesel,2014,3785.765,MW
+Canada,Hydro,2015,79434.06,MW
+Canada,Wind,2015,11072.19,MW
+Canada,Biomass,2015,2414.0282,MW
+Canada,Solar,2015,2135.478,MW
+Canada,Nuclear,2015,14273,MW
+Canada,Coal,2015,9661.44,MW
+Canada,Natural Gas,2015,22006.37,MW
+Canada,Oil and Diesel,2015,3841.765,MW
+Canada,Hydro,2016,80403.11,MW
+Canada,Wind,2016,11902.4,MW
+Canada,Biomass,2016,2702.29,MW
+Canada,Solar,2016,2309.538,MW
+Canada,Nuclear,2016,14273,MW
+Canada,Coal,2016,9661.44,MW
+Canada,Natural Gas,2016,21499.42,MW
+Canada,Oil and Diesel,2016,3836.755,MW
+BC,Hydro,2005,12847,MW
+BC,Wind,2005,0,MW
+BC,Biomass,2005,811,MW
+BC,Solar,2005,0,MW
+BC,Nuclear,2005,0,MW
+BC,Coal,2005,0,MW
+BC,Natural Gas,2005,1320,MW
+BC,Oil and Diesel,2005,82.46,MW
+BC,Hydro,2006,12614,MW
+BC,Wind,2006,0,MW
+BC,Biomass,2006,811,MW
+BC,Solar,2006,0,MW
+BC,Nuclear,2006,0,MW
+BC,Coal,2006,0,MW
+BC,Natural Gas,2006,1425,MW
+BC,Oil and Diesel,2006,82.46,MW
+BC,Hydro,2007,12661,MW
+BC,Wind,2007,0,MW
+BC,Biomass,2007,811,MW
+BC,Solar,2007,0,MW
+BC,Nuclear,2007,0,MW
+BC,Coal,2007,0,MW
+BC,Natural Gas,2007,1425,MW
+BC,Oil and Diesel,2007,82.46,MW
+BC,Hydro,2008,12733,MW
+BC,Wind,2008,0,MW
+BC,Biomass,2008,811,MW
+BC,Solar,2008,0,MW
+BC,Nuclear,2008,0,MW
+BC,Coal,2008,0,MW
+BC,Natural Gas,2008,1425,MW
+BC,Oil and Diesel,2008,82.46,MW
+BC,Hydro,2009,12858,MW
+BC,Wind,2009,102,MW
+BC,Biomass,2009,811,MW
+BC,Solar,2009,0,MW
+BC,Nuclear,2009,0,MW
+BC,Coal,2009,0,MW
+BC,Natural Gas,2009,1425,MW
+BC,Oil and Diesel,2009,82.46,MW
+BC,Hydro,2010,13202,MW
+BC,Wind,2010,102,MW
+BC,Biomass,2010,859,MW
+BC,Solar,2010,0,MW
+BC,Nuclear,2010,0,MW
+BC,Coal,2010,0,MW
+BC,Natural Gas,2010,1425,MW
+BC,Oil and Diesel,2010,82.46,MW
+BC,Hydro,2011,13673,MW
+BC,Wind,2011,246,MW
+BC,Biomass,2011,860,MW
+BC,Solar,2011,0,MW
+BC,Nuclear,2011,0,MW
+BC,Coal,2011,0,MW
+BC,Natural Gas,2011,1425,MW
+BC,Oil and Diesel,2011,82.46,MW
+BC,Hydro,2012,13673,MW
+BC,Wind,2012,246,MW
+BC,Biomass,2012,860,MW
+BC,Solar,2012,0,MW
+BC,Nuclear,2012,0,MW
+BC,Coal,2012,0,MW
+BC,Natural Gas,2012,1425,MW
+BC,Oil and Diesel,2012,82.46,MW
+BC,Hydro,2013,13687,MW
+BC,Wind,2013,388,MW
+BC,Biomass,2013,886,MW
+BC,Solar,2013,2.281,MW
+BC,Nuclear,2013,0,MW
+BC,Coal,2013,0,MW
+BC,Natural Gas,2013,1474,MW
+BC,Oil and Diesel,2013,82.46,MW
+BC,Hydro,2014,14207,MW
+BC,Wind,2014,488,MW
+BC,Biomass,2014,886,MW
+BC,Solar,2014,2.281,MW
+BC,Nuclear,2014,0,MW
+BC,Coal,2014,0,MW
+BC,Natural Gas,2014,1474,MW
+BC,Oil and Diesel,2014,82.46,MW
+BC,Hydro,2015,15029,MW
+BC,Wind,2015,488,MW
+BC,Biomass,2015,886,MW
+BC,Solar,2015,3.281,MW
+BC,Nuclear,2015,0,MW
+BC,Coal,2015,0,MW
+BC,Natural Gas,2015,1474,MW
+BC,Oil and Diesel,2015,82.46,MW
+BC,Hydro,2016,15708.87,MW
+BC,Wind,2016,488.25,MW
+BC,Biomass,2016,906.77,MW
+BC,Solar,2016,3.281,MW
+BC,Nuclear,2016,0,MW
+BC,Coal,2016,0,MW
+BC,Natural Gas,2016,530.33,MW
+BC,Oil and Diesel,2016,82.46,MW
+AB,Hydro,2005,869,MW
+AB,Wind,2005,251,MW
+AB,Biomass,2005,271,MW
+AB,Solar,2005,0,MW
+AB,Nuclear,2005,0,MW
+AB,Coal,2005,5840,MW
+AB,Natural Gas,2005,4770,MW
+AB,Oil and Diesel,2005,7.15,MW
+AB,Hydro,2006,874,MW
+AB,Wind,2006,386,MW
+AB,Biomass,2006,313.1,MW
+AB,Solar,2006,0,MW
+AB,Nuclear,2006,0,MW
+AB,Coal,2006,5864,MW
+AB,Natural Gas,2006,4325,MW
+AB,Oil and Diesel,2006,7.15,MW
+AB,Hydro,2007,874,MW
+AB,Wind,2007,525,MW
+AB,Biomass,2007,313.1,MW
+AB,Solar,2007,0,MW
+AB,Nuclear,2007,0,MW
+AB,Coal,2007,5918,MW
+AB,Natural Gas,2007,4425,MW
+AB,Oil and Diesel,2007,7.15,MW
+AB,Hydro,2008,874,MW
+AB,Wind,2008,525,MW
+AB,Biomass,2008,313.1,MW
+AB,Solar,2008,0,MW
+AB,Nuclear,2008,0,MW
+AB,Coal,2008,5918,MW
+AB,Natural Gas,2008,4823,MW
+AB,Oil and Diesel,2008,7.15,MW
+AB,Hydro,2009,874,MW
+AB,Wind,2009,591,MW
+AB,Biomass,2009,323.2,MW
+AB,Solar,2009,0,MW
+AB,Nuclear,2009,0,MW
+AB,Coal,2009,5971,MW
+AB,Natural Gas,2009,5139,MW
+AB,Oil and Diesel,2009,7.15,MW
+AB,Hydro,2010,874,MW
+AB,Wind,2010,723,MW
+AB,Biomass,2010,340.2,MW
+AB,Solar,2010,0,MW
+AB,Nuclear,2010,0,MW
+AB,Coal,2010,5735,MW
+AB,Natural Gas,2010,5218,MW
+AB,Oil and Diesel,2010,7.15,MW
+AB,Hydro,2011,879,MW
+AB,Wind,2011,865,MW
+AB,Biomass,2011,358.697,MW
+AB,Solar,2011,0,MW
+AB,Nuclear,2011,0,MW
+AB,Coal,2011,5632,MW
+AB,Natural Gas,2011,5251,MW
+AB,Oil and Diesel,2011,7.15,MW
+AB,Hydro,2012,894,MW
+AB,Wind,2012,1088,MW
+AB,Biomass,2012,413.797,MW
+AB,Solar,2012,2.181,MW
+AB,Nuclear,2012,0,MW
+AB,Coal,2012,5690,MW
+AB,Natural Gas,2012,5683,MW
+AB,Oil and Diesel,2012,7.15,MW
+AB,Hydro,2013,894,MW
+AB,Wind,2013,1088,MW
+AB,Biomass,2013,416.646,MW
+AB,Solar,2013,4.466,MW
+AB,Nuclear,2013,0,MW
+AB,Coal,2013,6258,MW
+AB,Natural Gas,2013,5811,MW
+AB,Oil and Diesel,2013,7.15,MW
+AB,Hydro,2014,894,MW
+AB,Wind,2014,1434,MW
+AB,Biomass,2014,438.3,MW
+AB,Solar,2014,4.466,MW
+AB,Nuclear,2014,0,MW
+AB,Coal,2014,6258,MW
+AB,Natural Gas,2014,6161,MW
+AB,Oil and Diesel,2014,7.15,MW
+AB,Hydro,2015,894,MW
+AB,Wind,2015,1463,MW
+AB,Biomass,2015,428,MW
+AB,Solar,2015,4.466,MW
+AB,Nuclear,2015,0,MW
+AB,Coal,2015,6286.8,MW
+AB,Natural Gas,2015,7214,MW
+AB,Oil and Diesel,2015,7.15,MW
+AB,Hydro,2016,894.35,MW
+AB,Wind,2016,1466.76,MW
+AB,Biomass,2016,428,MW
+AB,Solar,2016,4.466,MW
+AB,Nuclear,2016,0,MW
+AB,Coal,2016,6286.8,MW
+AB,Natural Gas,2016,7519.15,MW
+AB,Oil and Diesel,2016,7.15,MW
+SK,Hydro,2005,863.81,MW
+SK,Wind,2005,15.86,MW
+SK,Biomass,2005,0,MW
+SK,Solar,2005,0,MW
+SK,Nuclear,2005,0,MW
+SK,Coal,2005,1799,MW
+SK,Natural Gas,2005,1053.45,MW
+SK,Oil and Diesel,2005,1.17,MW
+SK,Hydro,2006,863.81,MW
+SK,Wind,2006,171.18,MW
+SK,Biomass,2006,0,MW
+SK,Solar,2006,0,MW
+SK,Nuclear,2006,0,MW
+SK,Coal,2006,1799,MW
+SK,Natural Gas,2006,1053.45,MW
+SK,Oil and Diesel,2006,1.17,MW
+SK,Hydro,2007,863.81,MW
+SK,Wind,2007,171.18,MW
+SK,Biomass,2007,0,MW
+SK,Solar,2007,0,MW
+SK,Nuclear,2007,0,MW
+SK,Coal,2007,1822,MW
+SK,Natural Gas,2007,1053.45,MW
+SK,Oil and Diesel,2007,1.17,MW
+SK,Hydro,2008,863.81,MW
+SK,Wind,2008,171.18,MW
+SK,Biomass,2008,0,MW
+SK,Solar,2008,0,MW
+SK,Nuclear,2008,0,MW
+SK,Coal,2008,1822,MW
+SK,Natural Gas,2008,1053.45,MW
+SK,Oil and Diesel,2008,1.17,MW
+SK,Hydro,2009,863.81,MW
+SK,Wind,2009,171.18,MW
+SK,Biomass,2009,0,MW
+SK,Solar,2009,0,MW
+SK,Nuclear,2009,0,MW
+SK,Coal,2009,1826,MW
+SK,Natural Gas,2009,1146.45,MW
+SK,Oil and Diesel,2009,1.17,MW
+SK,Hydro,2010,863.81,MW
+SK,Wind,2010,171.18,MW
+SK,Biomass,2010,0,MW
+SK,Solar,2010,0,MW
+SK,Nuclear,2010,0,MW
+SK,Coal,2010,1826,MW
+SK,Natural Gas,2010,1393.95,MW
+SK,Oil and Diesel,2010,1.17,MW
+SK,Hydro,2011,863.81,MW
+SK,Wind,2011,196.68,MW
+SK,Biomass,2011,0,MW
+SK,Solar,2011,0,MW
+SK,Nuclear,2011,0,MW
+SK,Coal,2011,1826,MW
+SK,Natural Gas,2011,1393.95,MW
+SK,Oil and Diesel,2011,1.17,MW
+SK,Hydro,2012,863.81,MW
+SK,Wind,2012,196.68,MW
+SK,Biomass,2012,0,MW
+SK,Solar,2012,0,MW
+SK,Nuclear,2012,0,MW
+SK,Coal,2012,1702,MW
+SK,Natural Gas,2012,1393.95,MW
+SK,Oil and Diesel,2012,1.17,MW
+SK,Hydro,2013,863.81,MW
+SK,Wind,2013,196.68,MW
+SK,Biomass,2013,0,MW
+SK,Solar,2013,0,MW
+SK,Nuclear,2013,0,MW
+SK,Coal,2013,1636,MW
+SK,Natural Gas,2013,1328,MW
+SK,Oil and Diesel,2013,1.17,MW
+SK,Hydro,2014,863.81,MW
+SK,Wind,2014,196.68,MW
+SK,Biomass,2014,2,MW
+SK,Solar,2014,4,MW
+SK,Nuclear,2014,0,MW
+SK,Coal,2014,1535,MW
+SK,Natural Gas,2014,1480,MW
+SK,Oil and Diesel,2014,16.955,MW
+SK,Hydro,2015,889.06,MW
+SK,Wind,2015,221.18,MW
+SK,Biomass,2015,2,MW
+SK,Solar,2015,4,MW
+SK,Nuclear,2015,0,MW
+SK,Coal,2015,1535,MW
+SK,Natural Gas,2015,1709.96,MW
+SK,Oil and Diesel,2015,16.955,MW
+SK,Hydro,2016,889.06,MW
+SK,Wind,2016,221.18,MW
+SK,Biomass,2016,36,MW
+SK,Solar,2016,4,MW
+SK,Nuclear,2016,0,MW
+SK,Coal,2016,1535,MW
+SK,Natural Gas,2016,1859.96,MW
+SK,Oil and Diesel,2016,16.955,MW
+MB,Hydro,2005,5053.63,MW
+MB,Wind,2005,20,MW
+MB,Biomass,2005,22,MW
+MB,Solar,2005,0,MW
+MB,Nuclear,2005,0,MW
+MB,Coal,2005,97.64,MW
+MB,Natural Gas,2005,368,MW
+MB,Oil and Diesel,2005,32.38,MW
+MB,Hydro,2006,5053.63,MW
+MB,Wind,2006,103.95,MW
+MB,Biomass,2006,22,MW
+MB,Solar,2006,0,MW
+MB,Nuclear,2006,0,MW
+MB,Coal,2006,97.64,MW
+MB,Natural Gas,2006,368,MW
+MB,Oil and Diesel,2006,32,MW
+MB,Hydro,2007,5053.63,MW
+MB,Wind,2007,103.95,MW
+MB,Biomass,2007,22,MW
+MB,Solar,2007,0,MW
+MB,Nuclear,2007,0,MW
+MB,Coal,2007,97.64,MW
+MB,Natural Gas,2007,368,MW
+MB,Oil and Diesel,2007,32,MW
+MB,Hydro,2008,5053.63,MW
+MB,Wind,2008,103.95,MW
+MB,Biomass,2008,22,MW
+MB,Solar,2008,0,MW
+MB,Nuclear,2008,0,MW
+MB,Coal,2008,97.64,MW
+MB,Natural Gas,2008,368,MW
+MB,Oil and Diesel,2008,32,MW
+MB,Hydro,2009,5053.63,MW
+MB,Wind,2009,103.95,MW
+MB,Biomass,2009,22,MW
+MB,Solar,2009,0,MW
+MB,Nuclear,2009,0,MW
+MB,Coal,2009,97.64,MW
+MB,Natural Gas,2009,368,MW
+MB,Oil and Diesel,2009,32,MW
+MB,Hydro,2010,5053.63,MW
+MB,Wind,2010,103.95,MW
+MB,Biomass,2010,22,MW
+MB,Solar,2010,0,MW
+MB,Nuclear,2010,0,MW
+MB,Coal,2010,97.64,MW
+MB,Natural Gas,2010,368,MW
+MB,Oil and Diesel,2010,32,MW
+MB,Hydro,2011,5053.63,MW
+MB,Wind,2011,241.95,MW
+MB,Biomass,2011,22,MW
+MB,Solar,2011,0,MW
+MB,Nuclear,2011,0,MW
+MB,Coal,2011,97.64,MW
+MB,Natural Gas,2011,368,MW
+MB,Oil and Diesel,2011,32,MW
+MB,Hydro,2012,5053.63,MW
+MB,Wind,2012,258.45,MW
+MB,Biomass,2012,22,MW
+MB,Solar,2012,0,MW
+MB,Nuclear,2012,0,MW
+MB,Coal,2012,97.64,MW
+MB,Natural Gas,2012,368,MW
+MB,Oil and Diesel,2012,32,MW
+MB,Hydro,2013,5254.63,MW
+MB,Wind,2013,258.45,MW
+MB,Biomass,2013,22,MW
+MB,Solar,2013,1,MW
+MB,Nuclear,2013,0,MW
+MB,Coal,2013,97.64,MW
+MB,Natural Gas,2013,368,MW
+MB,Oil and Diesel,2013,32,MW
+MB,Hydro,2014,5313.05,MW
+MB,Wind,2014,258.45,MW
+MB,Biomass,2014,22,MW
+MB,Solar,2014,2,MW
+MB,Nuclear,2014,0,MW
+MB,Coal,2014,97.64,MW
+MB,Natural Gas,2014,402.61,MW
+MB,Oil and Diesel,2014,10,MW
+MB,Hydro,2015,5349.159,MW
+MB,Wind,2015,258.45,MW
+MB,Biomass,2015,22,MW
+MB,Solar,2015,3,MW
+MB,Nuclear,2015,0,MW
+MB,Coal,2015,97.64,MW
+MB,Natural Gas,2015,402.61,MW
+MB,Oil and Diesel,2015,10,MW
+MB,Hydro,2016,5349.159,MW
+MB,Wind,2016,258.45,MW
+MB,Biomass,2016,22,MW
+MB,Solar,2016,4,MW
+MB,Nuclear,2016,0,MW
+MB,Coal,2016,97.64,MW
+MB,Natural Gas,2016,402.61,MW
+MB,Oil and Diesel,2016,4.93,MW
+ON,Hydro,2005,8505,MW
+ON,Wind,2005,15,MW
+ON,Biomass,2005,209,MW
+ON,Solar,2005,16.75,MW
+ON,Nuclear,2005,11450,MW
+ON,Coal,2005,6437,MW
+ON,Natural Gas,2005,4789.11,MW
+ON,Oil and Diesel,2005,115.81,MW
+ON,Hydro,2006,8410,MW
+ON,Wind,2006,414,MW
+ON,Biomass,2006,176,MW
+ON,Solar,2006,20.48,MW
+ON,Nuclear,2006,11990,MW
+ON,Coal,2006,6329,MW
+ON,Natural Gas,2006,4878.79,MW
+ON,Oil and Diesel,2006,115.81,MW
+ON,Hydro,2007,8410,MW
+ON,Wind,2007,491,MW
+ON,Biomass,2007,176,MW
+ON,Solar,2007,25.77,MW
+ON,Nuclear,2007,11990,MW
+ON,Coal,2007,6339,MW
+ON,Natural Gas,2007,4876.96,MW
+ON,Oil and Diesel,2007,115.81,MW
+ON,Hydro,2008,8416,MW
+ON,Wind,2008,782,MW
+ON,Biomass,2008,148,MW
+ON,Solar,2008,32.72,MW
+ON,Nuclear,2008,11990,MW
+ON,Coal,2008,6077,MW
+ON,Natural Gas,2008,6316.46,MW
+ON,Oil and Diesel,2008,115.81,MW
+ON,Hydro,2009,8424,MW
+ON,Wind,2009,1168,MW
+ON,Biomass,2009,207,MW
+ON,Solar,2009,94.57,MW
+ON,Nuclear,2009,11990,MW
+ON,Coal,2009,6077,MW
+ON,Natural Gas,2009,5976.69,MW
+ON,Oil and Diesel,2009,115.81,MW
+ON,Hydro,2010,8463,MW
+ON,Wind,2010,1447,MW
+ON,Biomass,2010,207,MW
+ON,Solar,2010,281.13,MW
+ON,Nuclear,2010,11990,MW
+ON,Coal,2010,4487,MW
+ON,Natural Gas,2010,8957.61,MW
+ON,Oil and Diesel,2010,249.32,MW
+ON,Hydro,2011,8524,MW
+ON,Wind,2011,1970,MW
+ON,Biomass,2011,207,MW
+ON,Solar,2011,419.4,MW
+ON,Nuclear,2011,11990,MW
+ON,Coal,2011,4275,MW
+ON,Natural Gas,2011,8969.745,MW
+ON,Oil and Diesel,2011,249.32,MW
+ON,Hydro,2012,8524,MW
+ON,Wind,2012,2053,MW
+ON,Biomass,2012,207,MW
+ON,Solar,2012,645.3,MW
+ON,Nuclear,2012,11990,MW
+ON,Coal,2012,3296,MW
+ON,Natural Gas,2012,9362.745,MW
+ON,Oil and Diesel,2012,249.32,MW
+ON,Hydro,2013,8565,MW
+ON,Wind,2013,2491,MW
+ON,Biomass,2013,207,MW
+ON,Solar,2013,1018.7,MW
+ON,Nuclear,2013,13640,MW
+ON,Coal,2013,2291,MW
+ON,Natural Gas,2013,9400.745,MW
+ON,Oil and Diesel,2013,249.32,MW
+ON,Hydro,2014,8972,MW
+ON,Wind,2014,3490,MW
+ON,Biomass,2014,592,MW
+ON,Solar,2014,1509.4,MW
+ON,Nuclear,2014,13568,MW
+ON,Coal,2014,153,MW
+ON,Natural Gas,2014,9036.06,MW
+ON,Oil and Diesel,2014,250.45,MW
+ON,Hydro,2015,8768,MW
+ON,Wind,2015,4374,MW
+ON,Biomass,2015,574,MW
+ON,Solar,2015,2119,MW
+ON,Nuclear,2015,13568,MW
+ON,Coal,2015,0,MW
+ON,Natural Gas,2015,9648.06,MW
+ON,Oil and Diesel,2015,250.45,MW
+ON,Hydro,2016,8871.88,MW
+ON,Wind,2016,4841.45,MW
+ON,Biomass,2016,762.12,MW
+ON,Solar,2016,2291.46,MW
+ON,Nuclear,2016,13568,MW
+ON,Coal,2016,0,MW
+ON,Natural Gas,2016,9629.63,MW
+ON,Oil and Diesel,2016,250.45,MW
+QC,Hydro,2005,36473,MW
+QC,Wind,2005,207,MW
+QC,Biomass,2005,278,MW
+QC,Solar,2005,0,MW
+QC,Nuclear,2005,675,MW
+QC,Coal,2005,0,MW
+QC,Natural Gas,2005,31.05,MW
+QC,Oil and Diesel,2005,1594.63,MW
+QC,Hydro,2006,36686,MW
+QC,Wind,2006,317,MW
+QC,Biomass,2006,278,MW
+QC,Solar,2006,0,MW
+QC,Nuclear,2006,675,MW
+QC,Coal,2006,0,MW
+QC,Natural Gas,2006,591.05,MW
+QC,Oil and Diesel,2006,1544.04,MW
+QC,Hydro,2007,37440,MW
+QC,Wind,2007,417,MW
+QC,Biomass,2007,278,MW
+QC,Solar,2007,0,MW
+QC,Nuclear,2007,675,MW
+QC,Coal,2007,0,MW
+QC,Natural Gas,2007,591.05,MW
+QC,Oil and Diesel,2007,1665.04,MW
+QC,Hydro,2008,38265,MW
+QC,Wind,2008,527,MW
+QC,Biomass,2008,230,MW
+QC,Solar,2008,0,MW
+QC,Nuclear,2008,675,MW
+QC,Coal,2008,0,MW
+QC,Natural Gas,2008,591.05,MW
+QC,Oil and Diesel,2008,1633.04,MW
+QC,Hydro,2009,38414,MW
+QC,Wind,2009,660,MW
+QC,Biomass,2009,230,MW
+QC,Solar,2009,0,MW
+QC,Nuclear,2009,675,MW
+QC,Coal,2009,0,MW
+QC,Natural Gas,2009,591.05,MW
+QC,Oil and Diesel,2009,1582.24,MW
+QC,Hydro,2010,38426,MW
+QC,Wind,2010,664,MW
+QC,Biomass,2010,230,MW
+QC,Solar,2010,0,MW
+QC,Nuclear,2010,675,MW
+QC,Coal,2010,0,MW
+QC,Natural Gas,2010,591.05,MW
+QC,Oil and Diesel,2010,1502.04,MW
+QC,Hydro,2011,38184,MW
+QC,Wind,2011,923,MW
+QC,Biomass,2011,240,MW
+QC,Solar,2011,0,MW
+QC,Nuclear,2011,675,MW
+QC,Coal,2011,0,MW
+QC,Natural Gas,2011,591.05,MW
+QC,Oil and Diesel,2011,1007.04,MW
+QC,Hydro,2012,39217,MW
+QC,Wind,2012,1354,MW
+QC,Biomass,2012,240,MW
+QC,Solar,2012,0,MW
+QC,Nuclear,2012,675,MW
+QC,Coal,2012,0,MW
+QC,Natural Gas,2012,591.05,MW
+QC,Oil and Diesel,2012,1007.04,MW
+QC,Hydro,2013,38433,MW
+QC,Wind,2013,2404,MW
+QC,Biomass,2013,240,MW
+QC,Solar,2013,0.297,MW
+QC,Nuclear,2013,0,MW
+QC,Coal,2013,0,MW
+QC,Natural Gas,2013,591.13,MW
+QC,Oil and Diesel,2013,1007.04,MW
+QC,Hydro,2014,40034,MW
+QC,Wind,2014,2865,MW
+QC,Biomass,2014,240,MW
+QC,Solar,2014,0.297,MW
+QC,Nuclear,2014,0,MW
+QC,Coal,2014,0,MW
+QC,Natural Gas,2014,591.13,MW
+QC,Oil and Diesel,2014,540.12,MW
+QC,Hydro,2015,40212,MW
+QC,Wind,2015,3262,MW
+QC,Biomass,2015,245,MW
+QC,Solar,2015,0.297,MW
+QC,Nuclear,2015,0,MW
+QC,Coal,2015,0,MW
+QC,Natural Gas,2015,591.13,MW
+QC,Oil and Diesel,2015,589.12,MW
+QC,Hydro,2016,40396.95,MW
+QC,Wind,2016,3549.32,MW
+QC,Biomass,2016,275.44,MW
+QC,Solar,2016,0.297,MW
+QC,Nuclear,2016,0,MW
+QC,Coal,2016,0,MW
+QC,Natural Gas,2016,591.13,MW
+QC,Oil and Diesel,2016,589.12,MW
+NB,Hydro,2005,953.13,MW
+NB,Wind,2005,0,MW
+NB,Biomass,2005,127.3682,MW
+NB,Solar,2005,0,MW
+NB,Nuclear,2005,680,MW
+NB,Coal,2005,541,MW
+NB,Natural Gas,2005,340,MW
+NB,Oil and Diesel,2005,1593.04,MW
+NB,Hydro,2006,953.13,MW
+NB,Wind,2006,0,MW
+NB,Biomass,2006,127.3682,MW
+NB,Solar,2006,0,MW
+NB,Nuclear,2006,680,MW
+NB,Coal,2006,541,MW
+NB,Natural Gas,2006,340,MW
+NB,Oil and Diesel,2006,1593.04,MW
+NB,Hydro,2007,953.13,MW
+NB,Wind,2007,0,MW
+NB,Biomass,2007,127.3682,MW
+NB,Solar,2007,0,MW
+NB,Nuclear,2007,680,MW
+NB,Coal,2007,541,MW
+NB,Natural Gas,2007,340,MW
+NB,Oil and Diesel,2007,1593.04,MW
+NB,Hydro,2008,953.13,MW
+NB,Wind,2008,96,MW
+NB,Biomass,2008,127.3682,MW
+NB,Solar,2008,0,MW
+NB,Nuclear,2008,680,MW
+NB,Coal,2008,541,MW
+NB,Natural Gas,2008,340,MW
+NB,Oil and Diesel,2008,1593.04,MW
+NB,Hydro,2009,953.13,MW
+NB,Wind,2009,195,MW
+NB,Biomass,2009,127.3682,MW
+NB,Solar,2009,0,MW
+NB,Nuclear,2009,680,MW
+NB,Coal,2009,541,MW
+NB,Natural Gas,2009,350,MW
+NB,Oil and Diesel,2009,1593.04,MW
+NB,Hydro,2010,953.13,MW
+NB,Wind,2010,195,MW
+NB,Biomass,2010,127.3682,MW
+NB,Solar,2010,0,MW
+NB,Nuclear,2010,680,MW
+NB,Coal,2010,490,MW
+NB,Natural Gas,2010,350,MW
+NB,Oil and Diesel,2010,1593.04,MW
+NB,Hydro,2011,960.98,MW
+NB,Wind,2011,294,MW
+NB,Biomass,2011,127.3682,MW
+NB,Solar,2011,0,MW
+NB,Nuclear,2011,680,MW
+NB,Coal,2011,490,MW
+NB,Natural Gas,2011,350,MW
+NB,Oil and Diesel,2011,1593.04,MW
+NB,Hydro,2012,960.98,MW
+NB,Wind,2012,294,MW
+NB,Biomass,2012,127.3682,MW
+NB,Solar,2012,0,MW
+NB,Nuclear,2012,680,MW
+NB,Coal,2012,490,MW
+NB,Natural Gas,2012,350,MW
+NB,Oil and Diesel,2012,1593.04,MW
+NB,Hydro,2013,960.98,MW
+NB,Wind,2013,294,MW
+NB,Biomass,2013,127.3682,MW
+NB,Solar,2013,0.162,MW
+NB,Nuclear,2013,705,MW
+NB,Coal,2013,490,MW
+NB,Natural Gas,2013,350,MW
+NB,Oil and Diesel,2013,1593.04,MW
+NB,Hydro,2014,960.98,MW
+NB,Wind,2014,294,MW
+NB,Biomass,2014,127.3682,MW
+NB,Solar,2014,0.162,MW
+NB,Nuclear,2014,705,MW
+NB,Coal,2014,490,MW
+NB,Natural Gas,2014,350,MW
+NB,Oil and Diesel,2014,1593.04,MW
+NB,Hydro,2015,960.98,MW
+NB,Wind,2015,294,MW
+NB,Biomass,2015,127.3682,MW
+NB,Solar,2015,0.162,MW
+NB,Nuclear,2015,705,MW
+NB,Coal,2015,490,MW
+NB,Natural Gas,2015,350,MW
+NB,Oil and Diesel,2015,1593.04,MW
+NB,Hydro,2016,960.98,MW
+NB,Wind,2016,294,MW
+NB,Biomass,2016,127.3,MW
+NB,Solar,2016,0.162,MW
+NB,Nuclear,2016,705,MW
+NB,Coal,2016,490,MW
+NB,Natural Gas,2016,350,MW
+NB,Oil and Diesel,2016,1593.04,MW
+NS,Hydro,2005,401.2,MW
+NS,Wind,2005,34.7,MW
+NS,Biomass,2005,68.62,MW
+NS,Solar,2005,0,MW
+NS,Nuclear,2005,0,MW
+NS,Coal,2005,1288,MW
+NS,Natural Gas,2005,381,MW
+NS,Oil and Diesel,2005,222.3,MW
+NS,Hydro,2006,401.2,MW
+NS,Wind,2006,37.1,MW
+NS,Biomass,2006,66.12,MW
+NS,Solar,2006,0,MW
+NS,Nuclear,2006,0,MW
+NS,Coal,2006,1288,MW
+NS,Natural Gas,2006,381,MW
+NS,Oil and Diesel,2006,222.3,MW
+NS,Hydro,2007,401.2,MW
+NS,Wind,2007,42.3,MW
+NS,Biomass,2007,66.12,MW
+NS,Solar,2007,0,MW
+NS,Nuclear,2007,0,MW
+NS,Coal,2007,1288,MW
+NS,Natural Gas,2007,381,MW
+NS,Oil and Diesel,2007,222.3,MW
+NS,Hydro,2008,401.2,MW
+NS,Wind,2008,43.2,MW
+NS,Biomass,2008,66.12,MW
+NS,Solar,2008,0,MW
+NS,Nuclear,2008,0,MW
+NS,Coal,2008,1288,MW
+NS,Natural Gas,2008,381,MW
+NS,Oil and Diesel,2008,222.3,MW
+NS,Hydro,2009,401.2,MW
+NS,Wind,2009,43.2,MW
+NS,Biomass,2009,66.12,MW
+NS,Solar,2009,0,MW
+NS,Nuclear,2009,0,MW
+NS,Coal,2009,1288,MW
+NS,Natural Gas,2009,430,MW
+NS,Oil and Diesel,2009,222.3,MW
+NS,Hydro,2010,401.2,MW
+NS,Wind,2010,122.2,MW
+NS,Biomass,2010,66.12,MW
+NS,Solar,2010,0,MW
+NS,Nuclear,2010,0,MW
+NS,Coal,2010,1288,MW
+NS,Natural Gas,2010,381,MW
+NS,Oil and Diesel,2010,222.3,MW
+NS,Hydro,2011,401.2,MW
+NS,Wind,2011,216.6,MW
+NS,Biomass,2011,66.12,MW
+NS,Solar,2011,0,MW
+NS,Nuclear,2011,0,MW
+NS,Coal,2011,1288,MW
+NS,Natural Gas,2011,482,MW
+NS,Oil and Diesel,2011,222.3,MW
+NS,Hydro,2012,401.2,MW
+NS,Wind,2012,320.2,MW
+NS,Biomass,2012,66.12,MW
+NS,Solar,2012,0,MW
+NS,Nuclear,2012,0,MW
+NS,Coal,2012,1288,MW
+NS,Natural Gas,2012,482,MW
+NS,Oil and Diesel,2012,222.3,MW
+NS,Hydro,2013,401.2,MW
+NS,Wind,2013,326.17,MW
+NS,Biomass,2013,66.12,MW
+NS,Solar,2013,0.365,MW
+NS,Nuclear,2013,0,MW
+NS,Coal,2013,1252,MW
+NS,Natural Gas,2013,482.01,MW
+NS,Oil and Diesel,2013,222.3,MW
+NS,Hydro,2014,388.2,MW
+NS,Wind,2014,328.17,MW
+NS,Biomass,2014,112.56,MW
+NS,Solar,2014,0.365,MW
+NS,Nuclear,2014,0,MW
+NS,Coal,2014,1252,MW
+NS,Natural Gas,2014,482.01,MW
+NS,Oil and Diesel,2014,222.3,MW
+NS,Hydro,2015,388.2,MW
+NS,Wind,2015,443.97,MW
+NS,Biomass,2015,112.56,MW
+NS,Solar,2015,0.365,MW
+NS,Nuclear,2015,0,MW
+NS,Coal,2015,1252,MW
+NS,Natural Gas,2015,482.01,MW
+NS,Oil and Diesel,2015,222.3,MW
+NS,Hydro,2016,388.2,MW
+NS,Wind,2016,515.4,MW
+NS,Biomass,2016,127.56,MW
+NS,Solar,2016,0.365,MW
+NS,Nuclear,2016,0,MW
+NS,Coal,2016,1252,MW
+NS,Natural Gas,2016,482.01,MW
+NS,Oil and Diesel,2016,222.3,MW
+NL,Hydro,2005,6790.681,MW
+NL,Wind,2005,0,MW
+NL,Biomass,2005,15,MW
+NL,Solar,2005,0,MW
+NL,Nuclear,2005,0,MW
+NL,Coal,2005,0,MW
+NL,Natural Gas,2005,103,MW
+NL,Oil and Diesel,2005,783.7,MW
+NL,Hydro,2006,6790.681,MW
+NL,Wind,2006,0,MW
+NL,Biomass,2006,15,MW
+NL,Solar,2006,0,MW
+NL,Nuclear,2006,0,MW
+NL,Coal,2006,0,MW
+NL,Natural Gas,2006,103,MW
+NL,Oil and Diesel,2006,783.7,MW
+NL,Hydro,2007,6790.681,MW
+NL,Wind,2007,0,MW
+NL,Biomass,2007,15,MW
+NL,Solar,2007,0,MW
+NL,Nuclear,2007,0,MW
+NL,Coal,2007,0,MW
+NL,Natural Gas,2007,103,MW
+NL,Oil and Diesel,2007,783.7,MW
+NL,Hydro,2008,6790.681,MW
+NL,Wind,2008,0,MW
+NL,Biomass,2008,15,MW
+NL,Solar,2008,0,MW
+NL,Nuclear,2008,0,MW
+NL,Coal,2008,0,MW
+NL,Natural Gas,2008,103,MW
+NL,Oil and Diesel,2008,783.7,MW
+NL,Hydro,2009,6790.681,MW
+NL,Wind,2009,54,MW
+NL,Biomass,2009,15,MW
+NL,Solar,2009,0,MW
+NL,Nuclear,2009,0,MW
+NL,Coal,2009,0,MW
+NL,Natural Gas,2009,103,MW
+NL,Oil and Diesel,2009,722.29,MW
+NL,Hydro,2010,6790.681,MW
+NL,Wind,2010,54,MW
+NL,Biomass,2010,15,MW
+NL,Solar,2010,0,MW
+NL,Nuclear,2010,0,MW
+NL,Coal,2010,0,MW
+NL,Natural Gas,2010,103,MW
+NL,Oil and Diesel,2010,722.29,MW
+NL,Hydro,2011,6793.681,MW
+NL,Wind,2011,54.3,MW
+NL,Biomass,2011,15,MW
+NL,Solar,2011,0,MW
+NL,Nuclear,2011,0,MW
+NL,Coal,2011,0,MW
+NL,Natural Gas,2011,103,MW
+NL,Oil and Diesel,2011,722.29,MW
+NL,Hydro,2012,6793.681,MW
+NL,Wind,2012,54.3,MW
+NL,Biomass,2012,15,MW
+NL,Solar,2012,0,MW
+NL,Nuclear,2012,0,MW
+NL,Coal,2012,0,MW
+NL,Natural Gas,2012,103,MW
+NL,Oil and Diesel,2012,722.29,MW
+NL,Hydro,2013,6793.681,MW
+NL,Wind,2013,54.3,MW
+NL,Biomass,2013,15,MW
+NL,Solar,2013,0.015,MW
+NL,Nuclear,2013,0,MW
+NL,Coal,2013,0,MW
+NL,Natural Gas,2013,103,MW
+NL,Oil and Diesel,2013,722.29,MW
+NL,Hydro,2014,6793.681,MW
+NL,Wind,2014,54.3,MW
+NL,Biomass,2014,15,MW
+NL,Solar,2014,0.015,MW
+NL,Nuclear,2014,0,MW
+NL,Coal,2014,0,MW
+NL,Natural Gas,2014,103,MW
+NL,Oil and Diesel,2014,736.99,MW
+NL,Hydro,2015,6793.681,MW
+NL,Wind,2015,54.3,MW
+NL,Biomass,2015,15,MW
+NL,Solar,2015,0.015,MW
+NL,Nuclear,2015,0,MW
+NL,Coal,2015,0,MW
+NL,Natural Gas,2015,103,MW
+NL,Oil and Diesel,2015,736.99,MW
+NL,Hydro,2016,6793.681,MW
+NL,Wind,2016,54.3,MW
+NL,Biomass,2016,15,MW
+NL,Solar,2016,0.015,MW
+NL,Nuclear,2016,0,MW
+NL,Coal,2016,0,MW
+NL,Natural Gas,2016,103,MW
+NL,Oil and Diesel,2016,736.99,MW
+PE,Hydro,2005,0,MW
+PE,Wind,2005,13,MW
+PE,Biomass,2005,2.1,MW
+PE,Solar,2005,0,MW
+PE,Nuclear,2005,0,MW
+PE,Coal,2005,0,MW
+PE,Natural Gas,2005,0,MW
+PE,Oil and Diesel,2005,160.5,MW
+PE,Hydro,2006,0,MW
+PE,Wind,2006,13,MW
+PE,Biomass,2006,2.1,MW
+PE,Solar,2006,0,MW
+PE,Nuclear,2006,0,MW
+PE,Coal,2006,0,MW
+PE,Natural Gas,2006,0,MW
+PE,Oil and Diesel,2006,160.5,MW
+PE,Hydro,2007,0,MW
+PE,Wind,2007,72,MW
+PE,Biomass,2007,2.1,MW
+PE,Solar,2007,0,MW
+PE,Nuclear,2007,0,MW
+PE,Coal,2007,0,MW
+PE,Natural Gas,2007,0,MW
+PE,Oil and Diesel,2007,160.5,MW
+PE,Hydro,2008,0,MW
+PE,Wind,2008,72,MW
+PE,Biomass,2008,2.1,MW
+PE,Solar,2008,0,MW
+PE,Nuclear,2008,0,MW
+PE,Coal,2008,0,MW
+PE,Natural Gas,2008,0,MW
+PE,Oil and Diesel,2008,160.45,MW
+PE,Hydro,2009,0,MW
+PE,Wind,2009,151,MW
+PE,Biomass,2009,2.1,MW
+PE,Solar,2009,0,MW
+PE,Nuclear,2009,0,MW
+PE,Coal,2009,0,MW
+PE,Natural Gas,2009,0,MW
+PE,Oil and Diesel,2009,160,MW
+PE,Hydro,2010,0,MW
+PE,Wind,2010,163,MW
+PE,Biomass,2010,2.1,MW
+PE,Solar,2010,0,MW
+PE,Nuclear,2010,0,MW
+PE,Coal,2010,0,MW
+PE,Natural Gas,2010,0,MW
+PE,Oil and Diesel,2010,160.45,MW
+PE,Hydro,2011,0,MW
+PE,Wind,2011,163,MW
+PE,Biomass,2011,2.1,MW
+PE,Solar,2011,0,MW
+PE,Nuclear,2011,0,MW
+PE,Coal,2011,0,MW
+PE,Natural Gas,2011,0,MW
+PE,Oil and Diesel,2011,160.45,MW
+PE,Hydro,2012,0,MW
+PE,Wind,2012,163,MW
+PE,Biomass,2012,2.1,MW
+PE,Solar,2012,0,MW
+PE,Nuclear,2012,0,MW
+PE,Coal,2012,0,MW
+PE,Natural Gas,2012,0,MW
+PE,Oil and Diesel,2012,160.45,MW
+PE,Hydro,2013,0,MW
+PE,Wind,2013,173,MW
+PE,Biomass,2013,2.1,MW
+PE,Solar,2013,0,MW
+PE,Nuclear,2013,0,MW
+PE,Coal,2013,0,MW
+PE,Natural Gas,2013,0,MW
+PE,Oil and Diesel,2013,160.45,MW
+PE,Hydro,2014,0,MW
+PE,Wind,2014,202.98,MW
+PE,Biomass,2014,2.1,MW
+PE,Solar,2014,0,MW
+PE,Nuclear,2014,0,MW
+PE,Coal,2014,0,MW
+PE,Natural Gas,2014,0,MW
+PE,Oil and Diesel,2014,160.45,MW
+PE,Hydro,2015,0,MW
+PE,Wind,2015,203.28,MW
+PE,Biomass,2015,2.1,MW
+PE,Solar,2015,0,MW
+PE,Nuclear,2015,0,MW
+PE,Coal,2015,0,MW
+PE,Natural Gas,2015,0,MW
+PE,Oil and Diesel,2015,160.45,MW
+PE,Hydro,2016,0,MW
+PE,Wind,2016,203.28,MW
+PE,Biomass,2016,2.1,MW
+PE,Solar,2016,0,MW
+PE,Nuclear,2016,0,MW
+PE,Coal,2016,0,MW
+PE,Natural Gas,2016,0,MW
+PE,Oil and Diesel,2016,160.45,MW
+YT,Hydro,2005,77.9,MW
+YT,Wind,2005,0.81,MW
+YT,Biomass,2005,0,MW
+YT,Solar,2005,0,MW
+YT,Nuclear,2005,0,MW
+YT,Coal,2005,0,MW
+YT,Natural Gas,2005,0,MW
+YT,Oil and Diesel,2005,33.34,MW
+YT,Hydro,2006,77.9,MW
+YT,Wind,2006,0.81,MW
+YT,Biomass,2006,0,MW
+YT,Solar,2006,0,MW
+YT,Nuclear,2006,0,MW
+YT,Coal,2006,0,MW
+YT,Natural Gas,2006,0,MW
+YT,Oil and Diesel,2006,33.34,MW
+YT,Hydro,2007,77.9,MW
+YT,Wind,2007,0.81,MW
+YT,Biomass,2007,0,MW
+YT,Solar,2007,0,MW
+YT,Nuclear,2007,0,MW
+YT,Coal,2007,0,MW
+YT,Natural Gas,2007,0,MW
+YT,Oil and Diesel,2007,33.34,MW
+YT,Hydro,2008,77.9,MW
+YT,Wind,2008,0.81,MW
+YT,Biomass,2008,0,MW
+YT,Solar,2008,0,MW
+YT,Nuclear,2008,0,MW
+YT,Coal,2008,0,MW
+YT,Natural Gas,2008,0,MW
+YT,Oil and Diesel,2008,33.34,MW
+YT,Hydro,2009,77.9,MW
+YT,Wind,2009,0.81,MW
+YT,Biomass,2009,0,MW
+YT,Solar,2009,0,MW
+YT,Nuclear,2009,0,MW
+YT,Coal,2009,0,MW
+YT,Natural Gas,2009,0,MW
+YT,Oil and Diesel,2009,33.34,MW
+YT,Hydro,2010,77.9,MW
+YT,Wind,2010,0.81,MW
+YT,Biomass,2010,0,MW
+YT,Solar,2010,0,MW
+YT,Nuclear,2010,0,MW
+YT,Coal,2010,0,MW
+YT,Natural Gas,2010,0,MW
+YT,Oil and Diesel,2010,33.57,MW
+YT,Hydro,2011,87.9,MW
+YT,Wind,2011,0.81,MW
+YT,Biomass,2011,0,MW
+YT,Solar,2011,0,MW
+YT,Nuclear,2011,0,MW
+YT,Coal,2011,0,MW
+YT,Natural Gas,2011,0,MW
+YT,Oil and Diesel,2011,33.57,MW
+YT,Hydro,2012,95.2,MW
+YT,Wind,2012,0.81,MW
+YT,Biomass,2012,0,MW
+YT,Solar,2012,0,MW
+YT,Nuclear,2012,0,MW
+YT,Coal,2012,0,MW
+YT,Natural Gas,2012,0,MW
+YT,Oil and Diesel,2012,33.57,MW
+YT,Hydro,2013,94.5,MW
+YT,Wind,2013,0.81,MW
+YT,Biomass,2013,0,MW
+YT,Solar,2013,0.044,MW
+YT,Nuclear,2013,0,MW
+YT,Coal,2013,0,MW
+YT,Natural Gas,2013,0,MW
+YT,Oil and Diesel,2013,33.57,MW
+YT,Hydro,2014,94.5,MW
+YT,Wind,2014,0.81,MW
+YT,Biomass,2014,0,MW
+YT,Solar,2014,0.044,MW
+YT,Nuclear,2014,0,MW
+YT,Coal,2014,0,MW
+YT,Natural Gas,2014,0,MW
+YT,Oil and Diesel,2014,33.57,MW
+YT,Hydro,2015,94.5,MW
+YT,Wind,2015,0.81,MW
+YT,Biomass,2015,0,MW
+YT,Solar,2015,0.044,MW
+YT,Nuclear,2015,0,MW
+YT,Coal,2015,0,MW
+YT,Natural Gas,2015,4.4,MW
+YT,Oil and Diesel,2015,24.57,MW
+YT,Hydro,2016,94.5,MW
+YT,Wind,2016,0.81,MW
+YT,Biomass,2016,0,MW
+YT,Solar,2016,0.144,MW
+YT,Nuclear,2016,0,MW
+YT,Coal,2016,0,MW
+YT,Natural Gas,2016,4.4,MW
+YT,Oil and Diesel,2016,24.57,MW
+NT,Hydro,2005,55.48,MW
+NT,Wind,2005,0,MW
+NT,Biomass,2005,0,MW
+NT,Solar,2005,0,MW
+NT,Nuclear,2005,0,MW
+NT,Coal,2005,0,MW
+NT,Natural Gas,2005,35,MW
+NT,Oil and Diesel,2005,114,MW
+NT,Hydro,2006,55.48,MW
+NT,Wind,2006,0,MW
+NT,Biomass,2006,0,MW
+NT,Solar,2006,0,MW
+NT,Nuclear,2006,0,MW
+NT,Coal,2006,0,MW
+NT,Natural Gas,2006,35,MW
+NT,Oil and Diesel,2006,75,MW
+NT,Hydro,2007,55.48,MW
+NT,Wind,2007,0,MW
+NT,Biomass,2007,0,MW
+NT,Solar,2007,0,MW
+NT,Nuclear,2007,0,MW
+NT,Coal,2007,0,MW
+NT,Natural Gas,2007,27.2,MW
+NT,Oil and Diesel,2007,80,MW
+NT,Hydro,2008,55.48,MW
+NT,Wind,2008,0,MW
+NT,Biomass,2008,0,MW
+NT,Solar,2008,0,MW
+NT,Nuclear,2008,0,MW
+NT,Coal,2008,0,MW
+NT,Natural Gas,2008,27.2,MW
+NT,Oil and Diesel,2008,84,MW
+NT,Hydro,2009,55.48,MW
+NT,Wind,2009,0,MW
+NT,Biomass,2009,0,MW
+NT,Solar,2009,0,MW
+NT,Nuclear,2009,0,MW
+NT,Coal,2009,0,MW
+NT,Natural Gas,2009,27.2,MW
+NT,Oil and Diesel,2009,100,MW
+NT,Hydro,2010,55.48,MW
+NT,Wind,2010,0,MW
+NT,Biomass,2010,0,MW
+NT,Solar,2010,0,MW
+NT,Nuclear,2010,0,MW
+NT,Coal,2010,0,MW
+NT,Natural Gas,2010,27.2,MW
+NT,Oil and Diesel,2010,100,MW
+NT,Hydro,2011,55.48,MW
+NT,Wind,2011,0,MW
+NT,Biomass,2011,0,MW
+NT,Solar,2011,0,MW
+NT,Nuclear,2011,0,MW
+NT,Coal,2011,0,MW
+NT,Natural Gas,2011,27.2,MW
+NT,Oil and Diesel,2011,100,MW
+NT,Hydro,2012,55.48,MW
+NT,Wind,2012,9.2,MW
+NT,Biomass,2012,0,MW
+NT,Solar,2012,0,MW
+NT,Nuclear,2012,0,MW
+NT,Coal,2012,0,MW
+NT,Natural Gas,2012,27.2,MW
+NT,Oil and Diesel,2012,100,MW
+NT,Hydro,2013,55.48,MW
+NT,Wind,2013,9.2,MW
+NT,Biomass,2013,0,MW
+NT,Solar,2013,0.265,MW
+NT,Nuclear,2013,0,MW
+NT,Coal,2013,0,MW
+NT,Natural Gas,2013,27.2,MW
+NT,Oil and Diesel,2013,104,MW
+NT,Hydro,2014,55.48,MW
+NT,Wind,2014,9.2,MW
+NT,Biomass,2014,0,MW
+NT,Solar,2014,0.415,MW
+NT,Nuclear,2014,0,MW
+NT,Coal,2014,0,MW
+NT,Natural Gas,2014,27.2,MW
+NT,Oil and Diesel,2014,78,MW
+NT,Hydro,2015,55.48,MW
+NT,Wind,2015,9.2,MW
+NT,Biomass,2015,0,MW
+NT,Solar,2015,0.815,MW
+NT,Nuclear,2015,0,MW
+NT,Coal,2015,0,MW
+NT,Natural Gas,2015,27.2,MW
+NT,Oil and Diesel,2015,94,MW
+NT,Hydro,2016,55.48,MW
+NT,Wind,2016,9.2,MW
+NT,Biomass,2016,0,MW
+NT,Solar,2016,1.215,MW
+NT,Nuclear,2016,0,MW
+NT,Coal,2016,0,MW
+NT,Natural Gas,2016,27.2,MW
+NT,Oil and Diesel,2016,94.06,MW
+NU,Hydro,2005,0,MW
+NU,Wind,2005,0,MW
+NU,Biomass,2005,0,MW
+NU,Solar,2005,0,MW
+NU,Nuclear,2005,0,MW
+NU,Coal,2005,0,MW
+NU,Natural Gas,2005,0,MW
+NU,Oil and Diesel,2005,54.28,MW
+NU,Hydro,2006,0,MW
+NU,Wind,2006,0,MW
+NU,Biomass,2006,0,MW
+NU,Solar,2006,0,MW
+NU,Nuclear,2006,0,MW
+NU,Coal,2006,0,MW
+NU,Natural Gas,2006,0,MW
+NU,Oil and Diesel,2006,54.28,MW
+NU,Hydro,2007,0,MW
+NU,Wind,2007,0,MW
+NU,Biomass,2007,0,MW
+NU,Solar,2007,0,MW
+NU,Nuclear,2007,0,MW
+NU,Coal,2007,0,MW
+NU,Natural Gas,2007,0,MW
+NU,Oil and Diesel,2007,54.28,MW
+NU,Hydro,2008,0,MW
+NU,Wind,2008,0,MW
+NU,Biomass,2008,0,MW
+NU,Solar,2008,0,MW
+NU,Nuclear,2008,0,MW
+NU,Coal,2008,0,MW
+NU,Natural Gas,2008,0,MW
+NU,Oil and Diesel,2008,54.28,MW
+NU,Hydro,2009,0,MW
+NU,Wind,2009,0,MW
+NU,Biomass,2009,0,MW
+NU,Solar,2009,0,MW
+NU,Nuclear,2009,0,MW
+NU,Coal,2009,0,MW
+NU,Natural Gas,2009,0,MW
+NU,Oil and Diesel,2009,54.28,MW
+NU,Hydro,2010,0,MW
+NU,Wind,2010,0,MW
+NU,Biomass,2010,0,MW
+NU,Solar,2010,0,MW
+NU,Nuclear,2010,0,MW
+NU,Coal,2010,0,MW
+NU,Natural Gas,2010,0,MW
+NU,Oil and Diesel,2010,54.28,MW
+NU,Hydro,2011,0,MW
+NU,Wind,2011,0,MW
+NU,Biomass,2011,0,MW
+NU,Solar,2011,0,MW
+NU,Nuclear,2011,0,MW
+NU,Coal,2011,0,MW
+NU,Natural Gas,2011,0,MW
+NU,Oil and Diesel,2011,54.28,MW
+NU,Hydro,2012,0,MW
+NU,Wind,2012,0,MW
+NU,Biomass,2012,0,MW
+NU,Solar,2012,0,MW
+NU,Nuclear,2012,0,MW
+NU,Coal,2012,0,MW
+NU,Natural Gas,2012,0,MW
+NU,Oil and Diesel,2012,54.28,MW
+NU,Hydro,2013,0,MW
+NU,Wind,2013,0,MW
+NU,Biomass,2013,0,MW
+NU,Solar,2013,0.033,MW
+NU,Nuclear,2013,0,MW
+NU,Coal,2013,0,MW
+NU,Natural Gas,2013,0,MW
+NU,Oil and Diesel,2013,54.28,MW
+NU,Hydro,2014,0,MW
+NU,Wind,2014,0,MW
+NU,Biomass,2014,0,MW
+NU,Solar,2014,0.033,MW
+NU,Nuclear,2014,0,MW
+NU,Coal,2014,0,MW
+NU,Natural Gas,2014,0,MW
+NU,Oil and Diesel,2014,54.28,MW
+NU,Hydro,2015,0,MW
+NU,Wind,2015,0,MW
+NU,Biomass,2015,0,MW
+NU,Solar,2015,0.033,MW
+NU,Nuclear,2015,0,MW
+NU,Coal,2015,0,MW
+NU,Natural Gas,2015,0,MW
+NU,Oil and Diesel,2015,54.28,MW
+NU,Hydro,2016,0,MW
+NU,Wind,2016,0,MW
+NU,Biomass,2016,0,MW
+NU,Solar,2016,0.133,MW
+NU,Nuclear,2016,0,MW
+NU,Coal,2016,0,MW
+NU,Natural Gas,2016,0,MW
+NU,Oil and Diesel,2016,54.28,MW
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
